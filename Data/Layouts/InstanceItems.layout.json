@@ -1,0 +1,14 @@
+{
+	"Version": 1,
+	"Data": [
+		{
+			"Name": "Items",
+			"Entities": [
+				[ "Lantern", "MagicMirror" ],
+				[ "Sword1", "Bomb", "MoonPearl" ],
+				[ "PegasusBoots", "MagicPowder", "Hookshot", "Bottle" ],
+				[ "MedallionBombos", "MedallionEther", "MedallionQuake" ]
+			]
+		}
+	]
+}

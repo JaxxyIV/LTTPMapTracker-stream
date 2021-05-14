@@ -1,0 +1,39 @@
+{
+	"Version": 1,
+	"Settings": {
+		"IncludeKeyChests": false,
+		"IncludeEtcChests": false
+	},
+	"EntityData": {
+		"Blank": "Blank",
+		"DTUnknown": "DTUnknown",
+		"DTCrystal": "DTCrystal",
+		"DTCrystalRed": "DTCrystalRed",
+		"DTPendant": "DTPendant",
+		"DTPendantGreen": "DTPendantGreen",
+		"Chest": "Chest",
+		"ChestOpen": "ChestOpen",
+		"Key": "KeySmall",
+		"BigKey": "KeyBig"
+	},
+	"LocationData": [
+		{
+			"Name": "Dungeons",
+			"Locations": [
+				[ "HCSKBK", [ "Blank", "Chest", "KeyTotal" ] ],
+				[ "LW1SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "LW2SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "LW3SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "ATSKBK", [ "Blank", "Chest", "KeyTotal" ] ],
+				[ "DW1SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "DW2SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "DW3SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "DW4SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "DW5SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "DW6SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "DW7SKBK", [ "DungeonType", "Chest", "KeyTotal", "BigKey" ] ],
+				[ "GTSKBK", [ "Blank", "Chest", "KeyTotal", "BigKey" ] ]
+			]
+		}
+	]
+}

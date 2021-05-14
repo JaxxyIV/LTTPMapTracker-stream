@@ -1,0 +1,97 @@
+{
+	"Version": 1,
+	"Data": 
+	[
+		{
+			"Name": "Items",
+			"Entities": 
+			[
+				[ 
+					[ "Bow", "SilverBow" ], 
+					[ "Boomerang1", "Boomerang2" ], 
+					"Hookshot", 
+					"Bomb", 
+					[ "MagicPowderActual", "MushroomActual", "MushroomPowder"] 
+				],
+				[ 
+					"FireRod", 
+					"IceRod", 
+					"MedallionBombos", 
+					"MedallionEther", 
+					"MedallionQuake" 
+				],
+				[ 
+					"Lantern", 
+					"MagicHammer", 
+					[ "FluteActual", "ShovelActual", "FluteShovel" ], 
+					"BugNet", 
+					"BookOfMudora" 
+				],
+				[ 
+					"Bottle|ctr:4", 
+					"CaneOfSomaria", 
+					"CaneOfByrna", 
+					"MagicCape", 
+					"MagicMirror" 
+				]
+			]
+		},
+		{
+			"Name": "Utility",
+			"Entities": 
+			[
+				[ "PegasusBoots", [ "Glove1", "Glove2" ], "ZorasFlippers", "MoonPearl" ]
+			]
+		},		
+		{
+			"Name": "Equipment",
+			"Entities": 
+			[
+				[ 
+					[ "SingleArrow" ],
+					[ "Sword1", "Sword2", "Sword3", "Sword4" ],
+					[ "Shield1", "Shield2", "Shield3" ],
+					[ "Armor2", "Armor3" ]
+				]
+			]
+		},
+		{
+			"Name": "Mode",
+			"Entities": 
+			[
+				[
+					[ "StateOpen", "StateStandard", "StateInverted", "StateRetro" ],
+					[ "FillAdvanced", "FillBasic" ],
+					[ "DungeonStandard", "DungeonMC", "DungeonMCS", "DungeonKeys" ],
+					[ "AccessInventory", "AccessLocations", "AccessBeatable" ],
+					[ "GoalGanon", "GoalFast", "GoalAllDungeons", "GoalPedestal", "GoalTriforce" ]
+				],
+				[
+					[ "SwordsRandomized", "SwordsAssured", "SwordsVanilla", "SwordsSwordless" ],
+					[ "GT7", "GT6", "GT5", "GT4", "GT3", "GT2", "GT1", "GT0", "GTRandom" ],
+					[ "Ganon7", "Ganon6", "Ganon5", "Ganon4", "Ganon3", "Ganon2", "Ganon1", "Ganon0", "GanonRandom" ],
+					[ "DifficultyNormal", "DifficultyHard", "DifficultyExpert" ],
+					[ "GoMode", "TentativeGoMode" ]
+				]
+			]
+		},
+		{
+			"Name": "Extra",
+			"Entities":
+			[
+				
+				[
+					[ "Blank" ],
+					[ "DW6Medallion", "DW6Bombos", "DW6Ether", "DW6Quake" ],
+					[ "DW7Medallion", "DW7Bombos", "DW7Ether", "DW7Quake" ]
+				],
+				[
+					[ "Shovel", "ShovelUsed" ],
+					[ "Flute", "FluteActivated" ],
+					[ "Mushroom", "MushroomUsed" ],
+					[ "MagicPowder", "MagicPowderUsed" ]
+				]
+			]
+		}
+	]
+}

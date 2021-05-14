@@ -1,0 +1,15 @@
+{
+	"Version": 1,
+	"Data": [
+		{
+			"Name": "Locations",
+			"Entities": [
+				[ "HC", "LW1", "LW2", "LW3", "AT", "DW1", "DW2" ],
+				[ "DW3", "DW4", "DW5", "DW6", "DW7", "GT", "Ganon" ],
+				[ "LinksHouse", "Sanctuary", "OldMansCave", "Blank", "RupeeFarm", "BombRefill", "BottleRefill" ],
+				[ "Connection1", "Connection2", "Connection3", "Connection4", "Connection5", "ParadoxCave", "SpectacleRock" ],
+				[ "Sahasrahla", "BombShop", "Swordsmiths", "WitchHut", "BumperCave", "MimicCave", "SpikeCave" ]
+			]
+		}
+	]
+}
