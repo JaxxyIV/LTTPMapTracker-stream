@@ -1,0 +1,8 @@
+{
+    "Image": "Data/Configurations/Open/OpenKeysanity.png",
+    "InstanceTemplate": "",
+    "Name": "BK Shuffle",
+    "Schema": "Data/Configurations/Open/Open.schema.json",
+    "SettingsOverrides": "Data/Configurations/Open/OpenBK.ini",
+    "Version": 1
+}
