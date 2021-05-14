@@ -1,0 +1,1180 @@
+{
+	"Version": 1,
+
+	"Entities": [
+		{
+			"TypeName": "Sword1",
+			"DisplayName": "Fighter's Sword",
+			"Image": "Images/Items/Sword1.png"
+		},
+		{
+			"TypeName": "Sword2",
+			"DisplayName": "Master Sword",
+			"Image": "Images/Items/Sword2.png"
+		},
+		{
+			"TypeName": "Sword3",
+			"DisplayName": "Tempered Sword",
+			"Image": "Images/Items/Sword3.png"
+		},
+		{
+			"TypeName": "Sword4",
+			"DisplayName": "Golden Sword",
+			"Image": "Images/Items/Sword4.png"
+		},
+		{
+			"TypeName": "Shield1",
+			"DisplayName": "Fighter's Shield",
+			"Image": "Images/Items/Shield1.png"
+		},
+		{
+			"TypeName": "Shield2",
+			"DisplayName": "Red Shield",
+			"Image": "Images/Items/Shield2.png"
+		},
+		{
+			"TypeName": "Shield3",
+			"DisplayName": "Mirror Shield",
+			"Image": "Images/Items/Shield3.png"
+		},
+		{
+			"TypeName": "Armor1",
+			"DisplayName": "Hero's Clothes",
+			"Image": "Images/Items/Armor1.png"
+		},
+		{
+			"TypeName": "Armor2",
+			"DisplayName": "Blue Mail",
+			"Image": "Images/Items/Armor2.png"
+		},
+		{
+			"TypeName": "Armor3",
+			"DisplayName": "Red Mail",
+			"Image": "Images/Items/Armor3.png"
+		},
+		{
+			"TypeName": "Pendant1",
+			"DisplayName": "Pendant of Courage",
+			"Image": "Images/Items/Pendant1.png"
+		},
+		{
+			"TypeName": "Pendant2",
+			"DisplayName": "Pendant of Power",
+			"Image": "Images/Items/Pendant2.png"
+		},
+		{
+			"TypeName": "Pendant3",
+			"DisplayName": "Pendant of Wisdom",
+			"Image": "Images/Items/Pendant3.png"
+		},
+		{
+			"TypeName": "Bomb",
+			"DisplayName": "Bomb",
+			"Image": "Images/Items/Bomb.png"
+		},
+		{
+			"TypeName": "SuperBomb",
+			"DisplayName": "Super Bomb",
+			"Image": "Images/Items/SuperBomb.png"
+		},
+		{
+			"TypeName": "BookOfMudora",
+			"DisplayName": "Book of Mudora",
+			"Image": "Images/Items/BookOfMudora.png"
+		},
+		{
+			"TypeName": "Boomerang1",
+			"DisplayName": "Boomerang",
+			"Image": "Images/Items/Boomerang1.png"
+		},
+		{
+			"TypeName": "Boomerang2",
+			"DisplayName": "Red Boomerang",
+			"Image": "Images/Items/Boomerang2.png"
+		},
+		{
+			"TypeName": "Boomerang3",
+			"DisplayName": "Red & Blue Boomerang",
+			"Image": "Images/Items/Boomerang3.png"
+		},
+		{
+			"TypeName": "Bottle",
+			"DisplayName": "Bottle",
+			"Image": "Images/Items/Bottle.png"
+		},
+		{
+			"TypeName": "Bow",
+			"DisplayName": "Bow",
+			"Image": "Images/Items/Bow.png"
+		},
+		{
+			"TypeName": "BugNet",
+			"DisplayName": "Bug Collecting Net",
+			"Image": "Images/Items/BugNet.png"
+		},
+		{
+			"TypeName": "CaneOfByrna",
+			"DisplayName": "Cane of Byrna",
+			"Image": "Images/Items/CaneOfByrna.png"
+		},
+		{
+			"TypeName": "CaneOfSomaria",
+			"DisplayName": "Cane of Somaria",
+			"Image": "Images/Items/CaneOfSomaria.png"
+		},
+		{
+			"TypeName": "FireRod",
+			"DisplayName": "Fire Rod",
+			"Image": "Images/Items/FireRod.png"
+		},
+		{
+			"TypeName": "IceRod",
+			"DisplayName": "Ice Rod",
+			"Image": "Images/Items/IceRod.png"
+		},
+		{
+			"TypeName": "Flute",
+			"DisplayName": "Flute",
+			"Image": "Images/Items/Flute.png"
+		},
+		{
+			"TypeName": "FluteActual",
+			"DisplayName": "Flute Actual",
+			"Image": "Images/Items/Flute.png"
+		},
+		{
+			"TypeName": "FluteActivated",
+			"DisplayName": "Flute Activated",
+			"Image": "Images/Items/FluteActivated.png"
+		},
+		{
+			"TypeName": "Glove1",
+			"DisplayName": "Power Glove",
+			"Image": "Images/Items/Glove1.png"
+		},
+		{
+			"TypeName": "Glove2",
+			"DisplayName": "Titan's Mitt",
+			"Image": "Images/Items/Glove2.png"
+		},
+		{
+			"TypeName": "Hookshot",
+			"DisplayName": "Hookshot",
+			"Image": "Images/Items/Hookshot.png"
+		},
+		{
+			"TypeName": "Lantern",
+			"DisplayName": "Lantern",
+			"Image": "Images/Items/Lantern.png"
+		},
+		{
+			"TypeName": "MagicCape",
+			"DisplayName": "Magic Cape",
+			"Image": "Images/Items/MagicCape.png"
+		},
+		{
+			"TypeName": "MagicHammer",
+			"DisplayName": "Magic Hammer",
+			"Image": "Images/Items/MagicHammer.png"
+		},
+		{
+			"TypeName": "MagicMirror",
+			"DisplayName": "Magic Mirror",
+			"Image": "Images/Items/MagicMirror.png"
+		},
+		{
+			"TypeName": "MagicPowder",
+			"DisplayName": "Magic Powder",
+			"Image": "Images/Items/MagicPowder.png"
+		},
+		{
+			"TypeName": "MagicPowderActual",
+			"DisplayName": "Magic Powder Actual",
+			"Image": "Images/Items/MagicPowder.png"
+		},
+		{
+			"TypeName": "MagicPowderUsed",
+			"DisplayName": "Magic Powder Used",
+			"Image": "Images/Items/MagicPowderUsed.png"
+		},
+		{
+			"TypeName": "MedallionBombos",
+			"DisplayName": "Bombos Medallion",
+			"Image": "Images/Items/MedallionBombos.png"
+		},
+		{
+			"TypeName": "MedallionEther",
+			"DisplayName": "Ether Medallion",
+			"Image": "Images/Items/MedallionEther.png"
+		},
+		{
+			"TypeName": "MedallionQuake",
+			"DisplayName": "Quake Medallion",
+			"Image": "Images/Items/MedallionQuake.png"
+		},
+		{
+			"TypeName": "MoonPearl",
+			"DisplayName": "Moon Pearl",
+			"Image": "Images/Items/MoonPearl.png"
+		},
+		{
+			"TypeName": "Mushroom",
+			"DisplayName": "Mushroom",
+			"Image": "Images/Items/Mushroom.png"
+		},
+		{
+			"TypeName": "MushroomActual",
+			"DisplayName": "Mushroom Actual",
+			"Image": "Images/Items/Mushroom.png"
+		},
+		{
+			"TypeName": "MushroomUsed",
+			"DisplayName": "Mushroom Used",
+			"Image": "Images/Items/MushroomUsed.png"
+		},
+		{
+			"TypeName": "PegasusBoots",
+			"DisplayName": "Pegasus Boots",
+			"Image": "Images/Items/PegasusBoots.png"
+		},
+		{
+			"TypeName": "SilverArrow",
+			"DisplayName": "Silver Arrow",
+			"Image": "Images/Items/SilverArrow.png"
+		},
+		{
+			"TypeName": "SingleArrow",
+			"DisplayName": "Single Arrow",
+			"Image": "Images/Items/SingleArrow.png"
+		},
+		{
+			"TypeName": "Shovel",
+			"DisplayName": "Shovel",
+			"Image": "Images/Items/Shovel.png"
+		},
+		{
+			"TypeName": "ShovelActual",
+			"DisplayName": "Shovel Actual",
+			"Image": "Images/Items/Shovel.png"
+		},
+		{
+			"TypeName": "ShovelUsed",
+			"DisplayName": "Shovel Used",
+			"Image": "Images/Items/ShovelUsed.png"
+		},
+		{
+			"TypeName": "ZorasFlippers",
+			"DisplayName": "Zora's Flippers",
+			"Image": "Images/Items/ZorasFlippers.png"
+		},
+		{
+			"TypeName": "MushroomPowder",
+			"DisplayName": "Mushroom Powder",
+			"Image": "Images/Items/MushroomPowder.png"
+		},
+		{
+			"TypeName": "FluteShovel",
+			"DisplayName": "Flute Shovel",
+			"Image": "Images/Items/FluteShovel.png"
+		},
+		{
+			"TypeName": "SilverBow",
+			"DisplayName": "Bow and Silver Arrows",
+			"Image": "Images/Items/SilverBow.png"
+		},
+		{
+			"TypeName": "SilverArrow2",
+			"DisplayName": "Silver Arrows",
+			"Image": "Images/Items/SilverArrow2.png"
+		},
+		{
+			"TypeName": "HalfMagic",
+			"DisplayName": "Half Magic",
+			"Image": "Images/Items/HalfMagic.png"
+		},
+		{
+			"TypeName": "GoMode",
+			"DisplayName": "Go Mode",
+			"Image": "Images/Items/GoMode.png"
+		},
+		{
+			"TypeName": "TentativeGoMode",
+			"DisplayName": "Tentative Go Mode",
+			"Image": "Images/Items/TentativeGoMode.png"
+		},
+		{
+			"TypeName": "DW6Medallion",
+			"DisplayName": "DW6 Medallion",
+			"Image": "Images/Items/DW6Medallion.png"
+		},
+		{
+			"TypeName": "DW6Bombos",
+			"DisplayName": "DW6 Bombos",
+			"Image": "Images/Items/DW6Bombos.png"
+		},
+		{
+			"TypeName": "DW6Ether",
+			"DisplayName": "DW6 Ether",
+			"Image": "Images/Items/DW6Ether.png"
+		},
+		{
+			"TypeName": "DW6Quake",
+			"DisplayName": "DW6 Quake",
+			"Image": "Images/Items/DW6Quake.png"
+		},
+		{
+			"TypeName": "DW7Medallion",
+			"DisplayName": "DW7 Medallion",
+			"Image": "Images/Items/DW7Medallion.png"
+		},
+		{
+			"TypeName": "DW7Bombos",
+			"DisplayName": "DW7 Bombos",
+			"Image": "Images/Items/DW7Bombos.png"
+		},
+		{
+			"TypeName": "DW7Ether",
+			"DisplayName": "DW7 Ether",
+			"Image": "Images/Items/DW7Ether.png"
+		},
+		{
+			"TypeName": "DW7Quake",
+			"DisplayName": "DW7 Quake",
+			"Image": "Images/Items/DW7Quake.png"
+		},
+		{
+			"TypeName": "StateOpen",
+			"DisplayName": "State Open",
+			"Image": "Images/Items/stateopen.png"
+		},
+		{
+			"TypeName": "StateStandard",
+			"DisplayName": "State Standard",
+			"Image": "Images/Items/statestandard.png"
+		},
+		{
+			"TypeName": "StateRetro",
+			"DisplayName": "State Retro",
+			"Image": "Images/Items/stateretro.png"
+		},
+		{
+			"TypeName": "StateInverted",
+			"DisplayName": "State Inverted",
+			"Image": "Images/Items/stateinverted.png"
+		},
+		{
+			"TypeName": "FillAdvanced",
+			"DisplayName": "Fill Advanced",
+			"Image": "Images/Misc/filladvanced.png"
+		},
+		{
+			"TypeName": "FillBasic",
+			"DisplayName": "Fill Basic",
+			"Image": "Images/Misc/fillbasic.png"
+		},
+		{
+			"TypeName": "DungeonStandard",
+			"DisplayName": "Dungeon Standard",
+			"Image": "Images/Misc/Chest.png"
+		},
+		{
+			"TypeName": "DungeonMC",
+			"DisplayName": "Dungeon MC",
+			"Image": "Images/Misc/Map.png"
+		},
+		{
+			"TypeName": "DungeonMCS",
+			"DisplayName": "Dungeon MCS",
+			"Image": "Images/Misc/KeySmall.png"
+		},
+		{
+			"TypeName": "DungeonKeys",
+			"DisplayName": "Dungeon Keys",
+			"Image": "Images/Misc/KeyBig.png"
+		},
+		{
+			"TypeName": "AccessInventory",
+			"DisplayName": "Access Inventory",
+			"Image": "Images/Misc/accessinventory.png"
+		},
+		{
+			"TypeName": "AccessLocations",
+			"DisplayName": "Access Locations",
+			"Image": "Images/Misc/accesslocations.png"
+		},
+		{
+			"TypeName": "AccessBeatable",
+			"DisplayName": "Access Beatable",
+			"Image": "Images/Misc/accessbeatable.png"
+		},
+		{
+			"TypeName": "SwordsRandomized",
+			"DisplayName": "Swords Randomized",
+			"Image": "Images/Items/swordsrandomized.png"
+		},
+		{
+			"TypeName": "SwordsAssured",
+			"DisplayName": "Swords Assured",
+			"Image": "Images/Items/sword1.png"
+		},
+		{
+			"TypeName": "SwordsVanilla",
+			"DisplayName": "Swords Vanilla",
+			"Image": "Images/Items/sword2.png"
+		},
+		{
+			"TypeName": "SwordsSwordless",
+			"DisplayName": "Swords Swordless",
+			"Image": "Images/Items/swordsswordless.png"
+		},
+		{
+			"TypeName": "GoalGanon",
+			"DisplayName": "Goal Ganon",
+			"Image": "Images/Locations/ganon.png"
+		},
+		{
+			"TypeName": "GoalFast",
+			"DisplayName": "Goal Fast",
+			"Image": "Images/Misc/goalfast.png"
+		},
+		{
+			"TypeName": "GoalAllDungeons",
+			"DisplayName": "Goal All Dungeons",
+			"Image": "Images/Misc/goalalldungeons.png"
+		},
+		{
+			"TypeName": "GoalPedestal",
+			"DisplayName": "Goal Pedestal",
+			"Image": "Images/Misc/goalpedestal.png"
+		},
+		{
+			"TypeName": "GoalTriforce",
+			"DisplayName": "Goal Triforce",
+			"Image": "Images/Misc/goaltriforce.png"
+		},
+		{
+			"TypeName": "VariationNone",
+			"DisplayName": "Variation None",
+			"Image": "Images/Misc/Chest.png"
+		},
+		{
+			"TypeName": "VariationKeysanity",
+			"DisplayName": "Variation Keysanity",
+			"Image": "Images/Misc/KeyBig.png"
+		},
+		{
+			"TypeName": "VariationRetro",
+			"DisplayName": "Variation Retro",
+			"Image": "Images/Misc/KeySmall.png"
+		},
+		{
+			"TypeName": "VariationTime",
+			"DisplayName": "Variation Time",
+			"Image": "Images/Misc/greenclock.png"
+		},
+		{
+			"TypeName": "DifficultyNormal",
+			"DisplayName": "Difficulty Normal",
+			"Image": "Images/Misc/normal.png"
+		},
+		{
+			"TypeName": "DifficultyEasy",
+			"DisplayName": "Difficulty Easy",
+			"Image": "Images/Misc/easy.png"
+		},
+		{
+			"TypeName": "DifficultyExpert",
+			"DisplayName": "Difficulty Expert",
+			"Image": "Images/Misc/expert.png"
+		},
+		{
+			"TypeName": "DifficultyHard",
+			"DisplayName": "Difficulty Hard",
+			"Image": "Images/Misc/hard.png"
+		},
+		{
+			"TypeName": "DifficultyInsane",
+			"DisplayName": "Difficulty Insane",
+			"Image": "Images/Misc/insane.png"
+		},
+		{
+			"TypeName": "Ganon7",
+			"DisplayName": "Ganon 7",
+			"Image": "Images/Misc/Ganon7.png"
+		},
+		{
+			"TypeName": "Ganon6",
+			"DisplayName": "Ganon 6",
+			"Image": "Images/Misc/Ganon6.png"
+		},
+		{
+			"TypeName": "Ganon5",
+			"DisplayName": "Ganon 5",
+			"Image": "Images/Misc/Ganon5.png"
+		},
+		{
+			"TypeName": "Ganon4",
+			"DisplayName": "Ganon 4",
+			"Image": "Images/Misc/Ganon4.png"
+		},
+		{
+			"TypeName": "Ganon3",
+			"DisplayName": "Ganon 3",
+			"Image": "Images/Misc/Ganon3.png"
+		},
+		{
+			"TypeName": "Ganon2",
+			"DisplayName": "Ganon 2",
+			"Image": "Images/Misc/Ganon2.png"
+		},
+		{
+			"TypeName": "Ganon1",
+			"DisplayName": "Ganon 1",
+			"Image": "Images/Misc/Ganon1.png"
+		},
+		{
+			"TypeName": "Ganon0",
+			"DisplayName": "Ganon 0",
+			"Image": "Images/Misc/Ganon0.png"
+		},
+		{
+			"TypeName": "GanonRandom",
+			"DisplayName": "Ganon Random",
+			"Image": "Images/Misc/GanonRandom.png"
+		},
+		{
+			"TypeName": "GT7",
+			"DisplayName": "GT 7",
+			"Image": "Images/Misc/GT7.png"
+		},
+		{
+			"TypeName": "GT6",
+			"DisplayName": "GT 6",
+			"Image": "Images/Misc/GT6.png"
+		},
+		{
+			"TypeName": "GT5",
+			"DisplayName": "GT 5",
+			"Image": "Images/Misc/GT5.png"
+		},
+		{
+			"TypeName": "GT4",
+			"DisplayName": "GT 4",
+			"Image": "Images/Misc/GT4.png"
+		},
+		{
+			"TypeName": "GT3",
+			"DisplayName": "GT 3",
+			"Image": "Images/Misc/GT3.png"
+		},
+		{
+			"TypeName": "GT2",
+			"DisplayName": "GT 2",
+			"Image": "Images/Misc/GT2.png"
+		},
+		{
+			"TypeName": "GT1",
+			"DisplayName": "GT 1",
+			"Image": "Images/Misc/GT1.png"
+		},
+		{
+			"TypeName": "GT0",
+			"DisplayName": "GT 0",
+			"Image": "Images/Misc/GT0.png"
+		},
+		{
+			"TypeName": "GTRandom",
+			"DisplayName": "GT Random",
+			"Image": "Images/Misc/GTRandom.png"
+		},
+
+		{
+			"TypeName": "HC",
+			"DisplayName": "Hyrule Castle",
+			"Image": "Images/Locations/HyruleCastle.png",
+			"Required": [ "Lantern" ],
+			"Auxiliary": [ "Front", "Left", "Right" ]
+		},
+		{
+			"TypeName": "LW1",
+			"DisplayName": "Eastern Palace",
+			"Image": "Images/Locations/LW1.png",
+			"Required": [ "Lantern", "Bow" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "LW2",
+			"DisplayName": "Desert Palace",
+			"Image": "Images/Locations/LW2.png",
+			"Required": [ [ "Lantern", "FireRod" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "LW3",
+			"DisplayName": "Tower of Hera",
+			"Image": "Images/Locations/LW3.png",
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "AT",
+			"DisplayName": "Agahnim's Tower",
+			"Required": [ "Lantern", [ "Sword1", "BugNet" ] ],
+			"Image": "Images/Locations/AT.png"
+		},
+		{
+			"TypeName": "DW1",
+			"DisplayName": "Palace of Darkness",
+			"Image": "Images/Locations/DW1.png",
+			"Required": [ "Lantern", "Bow", "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW2",
+			"DisplayName": "Swamp Palace",
+			"Image": "Images/Locations/DW2.png",
+			"Required": [ "ZorasFlippers", "MagicHammer", "Hookshot" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW3",
+			"DisplayName": "Skull Woods",
+			"Image": "Images/Locations/DW3.png",
+			"Required": [ "FireRod" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "DW4",
+			"DisplayName": "Thieves' Town",
+			"Image": "Images/Locations/DW4.png",
+			"Required": [ "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW5",
+			"DisplayName": "Ice Palace",
+			"Image": "Images/Locations/DW5.png",
+			"Required": [ [ "FireRod", "MedallionBombos" ], "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW6",
+			"DisplayName": "Misery Mire",
+			"Image": "Images/Locations/DW6.png",
+			"Required": [ "Lantern", "CaneOfSomaria", [ "Hookshot", "PegasusBoots" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW7",
+			"DisplayName": "Turtle Rock",
+			"Image": "Images/Locations/DW7.png",
+			"Required": [ "Lantern", "FireRod", "IceRod", "CaneOfSomaria" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "GT",
+			"DisplayName": "Ganon's Tower",
+			"Required": [ "Bow", "MagicHammer", "Hookshot", "CaneOfSomaria", "FireRod" ],
+			"Image": "Images/Locations/GT.png"
+		},
+		{
+			"TypeName": "HCMC",
+			"DisplayName": "Hyrule Castle",
+			"Image": "Images/Locations/HyruleCastle.png",
+			"Required": [ "Lantern" ],
+			"Auxiliary": [ "Front", "Left", "Right" ]
+		},
+		{
+			"TypeName": "LW1MC",
+			"DisplayName": "Eastern Palace",
+			"Image": "Images/Locations/LW1.png",
+			"Required": [ "Lantern", "Bow" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "LW2MC",
+			"DisplayName": "Desert Palace",
+			"Image": "Images/Locations/LW2.png",
+			"Required": [ [ "Lantern", "FireRod" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "LW3MC",
+			"DisplayName": "Tower of Hera",
+			"Image": "Images/Locations/LW3.png",
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "ATMC",
+			"DisplayName": "Agahnim's Tower",
+			"Required": [ "Lantern", [ "Sword1", "BugNet" ] ],
+			"Image": "Images/Locations/AT.png"
+		},
+		{
+			"TypeName": "DW1MC",
+			"DisplayName": "Palace of Darkness",
+			"Image": "Images/Locations/DW1.png",
+			"Required": [ "Lantern", "Bow", "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW2MC",
+			"DisplayName": "Swamp Palace",
+			"Image": "Images/Locations/DW2.png",
+			"Required": [ "ZorasFlippers", "MagicHammer", "Hookshot" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW3MC",
+			"DisplayName": "Skull Woods",
+			"Image": "Images/Locations/DW3.png",
+			"Required": [ "FireRod" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW4MC",
+			"DisplayName": "Thieves' Town",
+			"Image": "Images/Locations/DW4.png",
+			"Required": [ "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW5MC",
+			"DisplayName": "Ice Palace",
+			"Image": "Images/Locations/DW5.png",
+			"Required": [ [ "FireRod", "MedallionBombos" ], "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW6MC",
+			"DisplayName": "Misery Mire",
+			"Image": "Images/Locations/DW6.png",
+			"Required": [ "Lantern", "CaneOfSomaria", [ "Hookshot", "PegasusBoots" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW7MC",
+			"DisplayName": "Turtle Rock",
+			"Image": "Images/Locations/DW7.png",
+			"Required": [ "Lantern", "FireRod", "IceRod", "CaneOfSomaria" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "GTMC",
+			"DisplayName": "Ganon's Tower",
+			"Required": [ "Bow", "MagicHammer", "Hookshot", "CaneOfSomaria", "FireRod" ],
+			"Image": "Images/Locations/GT.png"
+		},
+		{
+			"TypeName": "HCSKBK",
+			"DisplayName": "Hyrule Castle",
+			"Image": "Images/Locations/HyruleCastle.png",
+			"Required": [ "Lantern" ],
+			"Auxiliary": [ "Front", "Left", "Right" ]
+		},
+		{
+			"TypeName": "LW1SKBK",
+			"DisplayName": "Eastern Palace",
+			"Image": "Images/Locations/LW1.png",
+			"Required": [ "Lantern", "Bow" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "LW2SKBK",
+			"DisplayName": "Desert Palace",
+			"Image": "Images/Locations/LW2.png",
+			"Required": [ [ "Lantern", "FireRod" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "LW3SKBK",
+			"DisplayName": "Tower of Hera",
+			"Image": "Images/Locations/LW3.png",
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "ATSKBK",
+			"DisplayName": "Agahnim's Tower",
+			"Required": [ "Lantern", [ "Sword1", "BugNet" ] ],
+			"Image": "Images/Locations/AT.png"
+		},
+		{
+			"TypeName": "DW1SKBK",
+			"DisplayName": "Palace of Darkness",
+			"Image": "Images/Locations/DW1.png",
+			"Required": [ "Lantern", "Bow", "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW2SKBK",
+			"DisplayName": "Swamp Palace",
+			"Image": "Images/Locations/DW2.png",
+			"Required": [ "ZorasFlippers", "MagicHammer", "Hookshot" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW3SKBK",
+			"DisplayName": "Skull Woods",
+			"Image": "Images/Locations/DW3.png",
+			"Required": [ "FireRod" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW4SKBK",
+			"DisplayName": "Thieves' Town",
+			"Image": "Images/Locations/DW4.png",
+			"Required": [ "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW5SKBK",
+			"DisplayName": "Ice Palace",
+			"Image": "Images/Locations/DW5.png",
+			"Required": [ [ "FireRod", "MedallionBombos" ], "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW6SKBK",
+			"DisplayName": "Misery Mire",
+			"Image": "Images/Locations/DW6.png",
+			"Required": [ "Lantern", "CaneOfSomaria", [ "Hookshot", "PegasusBoots" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW7SKBK",
+			"DisplayName": "Turtle Rock",
+			"Image": "Images/Locations/DW7.png",
+			"Required": [ "Lantern", "FireRod", "IceRod", "CaneOfSomaria" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "GTSKBK",
+			"DisplayName": "Ganon's Tower",
+			"Required": [ "Bow", "MagicHammer", "Hookshot", "CaneOfSomaria", "FireRod" ],
+			"Image": "Images/Locations/GT.png"
+		},
+		{
+			"TypeName": "HCDS",
+			"DisplayName": "Hyrule Castle",
+			"Image": "Images/Locations/HyruleCastle.png",
+			"Required": [ "Lantern" ],
+			"Auxiliary": [ "Front", "Left", "Right" ]
+		},
+		{
+			"TypeName": "LW1DS",
+			"DisplayName": "Eastern Palace",
+			"Image": "Images/Locations/LW1.png",
+			"Required": [ "Lantern", "Bow" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "LW2DS",
+			"DisplayName": "Desert Palace",
+			"Image": "Images/Locations/LW2.png",
+			"Required": [ [ "Lantern", "FireRod" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "LW3DS",
+			"DisplayName": "Tower of Hera",
+			"Image": "Images/Locations/LW3.png",
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "ATDS",
+			"DisplayName": "Agahnim's Tower",
+			"Required": [ "Lantern", [ "Sword1", "BugNet" ] ],
+			"Image": "Images/Locations/AT.png"
+		},
+		{
+			"TypeName": "DW1DS",
+			"DisplayName": "Palace of Darkness",
+			"Image": "Images/Locations/DW1.png",
+			"Required": [ "Lantern", "Bow", "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW2DS",
+			"DisplayName": "Swamp Palace",
+			"Image": "Images/Locations/DW2.png",
+			"Required": [ "ZorasFlippers", "MagicHammer", "Hookshot" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW3DS",
+			"DisplayName": "Skull Woods",
+			"Image": "Images/Locations/DW3.png",
+			"Required": [ "FireRod" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "DW4DS",
+			"DisplayName": "Thieves' Town",
+			"Image": "Images/Locations/DW4.png",
+			"Required": [ "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW5DS",
+			"DisplayName": "Ice Palace",
+			"Image": "Images/Locations/DW5.png",
+			"Required": [ [ "FireRod", "MedallionBombos" ], "MagicHammer" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW6DS",
+			"DisplayName": "Misery Mire",
+			"Image": "Images/Locations/DW6.png",
+			"Required": [ "Lantern", "CaneOfSomaria", [ "Hookshot", "PegasusBoots" ] ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon" ]
+		},
+		{
+			"TypeName": "DW7DS",
+			"DisplayName": "Turtle Rock",
+			"Image": "Images/Locations/DW7.png",
+			"Required": [ "Lantern", "FireRod", "IceRod", "CaneOfSomaria" ],
+			"Auxiliary": [ "CrystalDungeon", "PendantDungeon", "Front", "Left", "Right", "Boss" ]
+		},
+		{
+			"TypeName": "GTDS",
+			"DisplayName": "Ganon's Tower",
+			"Required": [ "Bow", "MagicHammer", "Hookshot", "CaneOfSomaria", "FireRod" ],
+			"Image": "Images/Locations/GT.png"
+		},
+		{
+			"TypeName": "Ganon",
+			"DisplayName": "Ganon",
+			"Required": [ "Sword2", [ "Lantern", "FireRod" ] ],
+			"Image": "Images/Locations/Ganon.png"
+		},
+		{
+			"TypeName": "BombShop",
+			"DisplayName": "Bomb Shop",
+			"Image": "Images/Items/SuperBomb.png",
+			"Required": [ "DW5R", "DW6R" ],
+			"Auxiliary": [ "LW1", "LW2", "LW3", "DW1S", "DW2S", "DW3S", "DW4S", "DW5S", "DW6S", "DW7S" ],
+			"AuxiliaryNum": 2
+		},
+		{
+			"TypeName": "BumperCave",
+			"DisplayName": "Bumper Cave",
+			"Image": "Images/Locations/BumperCave.png",
+			"Required": [ "MagicCape" ],
+			"Auxiliary": [ "Front", "Back" ]
+		},
+		{
+			"TypeName": "MimicCave",
+			"DisplayName": "Mimic Cave",
+			"Image": "Images/Locations/MimicCave.png",
+			"Required": [ "MagicHammer" ]
+		},
+		{
+			"TypeName": "OldMansCave",
+			"DisplayName": "Old Man's Cave",
+			"Image": "Images/Locations/OldMansCave.png",
+			"Attributes": [ "StartPos" ]
+		},
+		{
+			"TypeName": "Sanctuary",
+			"DisplayName": "Sanctuary",
+			"Image": "Images/Locations/Sanctuary.png",
+			"Attributes": [ "StartPos" ]
+		},
+		{
+			"TypeName": "LinksHouse",
+			"DisplayName": "Link's House",
+			"Image": "Images/Items/stateopen.png",
+			"Attributes": [ "StartPos" ]
+		},
+		{
+			"TypeName": "Sahasrahla",
+			"DisplayName": "Sahasrahla",
+			"Image": "Images/Locations/Sahasrahla.png",
+			"Auxiliary": [ "LW1", "LW2", "LW3", "DW1S", "DW2S", "DW3S", "DW4S", "DW5S", "DW6S", "DW7S" ]
+		},
+		{
+			"TypeName": "SpikeCave",
+			"DisplayName": "Spike Cave",
+			"Required": [ "MagicHammer", "Glove1", "MagicCape" ],
+			"Image": "Images/Locations/SpikeCave.png"
+		},
+		{
+			"TypeName": "Swordsmiths",
+			"DisplayName": "Swordsmiths",
+			"Image": "Images/Locations/Swordsmiths.png"
+		},
+		{
+			"TypeName": "RupeeFarm",
+			"DisplayName": "Rupee Farm",
+			"Image": "Images/Misc/RupeeFarm.png"
+		},
+		{
+			"TypeName": "BottleRefill",
+			"DisplayName": "Bottle Refill",
+			"Image": "Images/Items/Bottle.png"
+		},
+		{
+			"TypeName": "BombRefill",
+			"DisplayName": "Bomb Refill",
+			"Image": "Images/Items/Bomb.png"
+		},
+		{
+			"TypeName": "DesertLedge",
+			"DisplayName": "Desert Ledge",
+			"Image": "Images/Locations/DesertLedge.png"
+		},
+		{
+			"TypeName": "HyruleCastleTop",
+			"DisplayName": "Hyrule Castle Top",
+			"Image": "Images/Locations/HyruleCastleTop.png"
+		},
+		{
+			"TypeName": "Connection1",
+			"DisplayName": "Connection 1",
+			"Image": "Images/Locations/Connection1.png",
+			"Auxiliary": [ "Front", "Left", "Right", "Back" ]
+		},
+		{
+			"TypeName": "Connection2",
+			"DisplayName": "Connection 2",
+			"Image": "Images/Locations/Connection2.png",
+			"Auxiliary": [ "Front", "Left", "Right", "Back" ]
+		},
+		{
+			"TypeName": "Connection3",
+			"DisplayName": "Connection 3",
+			"Image": "Images/Locations/Connection3.png",
+			"Auxiliary": [ "Front", "Left", "Right", "Back" ]
+		},
+		{
+			"TypeName": "Connection4",
+			"DisplayName": "Connection 4",
+			"Image": "Images/Locations/Connection4.png",
+			"Auxiliary": [ "Front", "Left", "Right", "Back" ]
+		},
+		{
+			"TypeName": "Connection5",
+			"DisplayName": "Connection 5",
+			"Image": "Images/Locations/Connection5.png",
+			"Auxiliary": [ "Front", "Left", "Right", "Back" ]
+		},
+		{
+			"TypeName": "ParadoxCave",
+			"DisplayName": "Paradox Cave",
+			"Image": "Images/Locations/ParadoxCave.png",
+			"Auxiliary": [ "Top", "Middle", "Bottom" ]
+		},
+		{
+			"TypeName": "SpectacleRock",
+			"DisplayName": "Spectacle Rock Cave",
+			"Image": "Images/Locations/SpectacleRock.png",
+			"Auxiliary": [ "Top", "Middle", "Bottom" ]
+		},
+		{
+			"TypeName": "WitchHut",
+			"DisplayName": "Witch Hut",
+			"Required": [ "Mushroom" ],
+			"Image": "Images/Locations/WitchHut.png"
+		},
+
+		{
+			"TypeName": "Blank",
+			"DisplayName": "Blank",
+			"Image": "Images/Misc/Blank.png"
+		},
+		{
+			"TypeName": "Top",
+			"DisplayName": "Top",
+			"Image": "Images/Misc/AuxUp.png"
+		},
+		{
+			"TypeName": "Middle",
+			"DisplayName": "Middle",
+			"Image": "Images/Misc/AuxLeft.png"
+		},
+		{
+			"TypeName": "Bottom",
+			"DisplayName": "Bottom",
+			"Image": "Images/Misc/AuxDown.png"
+		},
+		{
+			"TypeName": "Left",
+			"DisplayName": "Left",
+			"Image": "Images/Misc/AuxLeft.png"
+		},
+		{
+			"TypeName": "Right",
+			"DisplayName": "Right",
+			"Image": "Images/Misc/AuxRight.png"
+		},
+		{
+			"TypeName": "Front",
+			"DisplayName": "Front",
+			"Image": "Images/Misc/AuxUp.png"
+		},
+		{
+			"TypeName": "Back",
+			"DisplayName": "Back",
+			"Image": "Images/Misc/AuxDown.png"
+		},
+		{
+			"TypeName": "Plus",
+			"DisplayName": "Plus",
+			"Image": "Images/Misc/AuxPlus.png"
+		},
+		{
+			"TypeName": "Chest",
+			"DisplayName": "Chest",
+			"Image": "Images/Misc/Chest.png"
+		},
+		{
+			"TypeName": "ChestOpen",
+			"DisplayName": "Chest (Open)",
+			"Image": "Images/Misc/ChestOpen.png"
+		},
+		{
+			"TypeName": "KeySmall",
+			"DisplayName": "KeySmall",
+			"Image": "Images/Misc/KeySmall.png"
+		},
+		{
+			"TypeName": "KeyBig",
+			"DisplayName": "KeyBig",
+			"Image": "Images/Misc/KeyBig.png"
+		},
+		{
+			"TypeName": "Map",
+			"DisplayName": "Map",
+			"Image": "Images/Misc/Map.png"
+		},
+		{
+			"TypeName": "Compass",
+			"DisplayName": "Compass",
+			"Image": "Images/Misc/Compass.png"
+		},
+		{
+			"TypeName": "DTUnknown",
+			"DisplayName": "Dungeon Type: Unknown",
+			"Image": "Images/Misc/DTUnknown.png"
+		},
+		{
+			"TypeName": "DTPendant",
+			"DisplayName": "Dungeon Type: Pendant",
+			"Image": "Images/Misc/DTPendant.png"
+		},
+		{
+			"TypeName": "DTPendantGreen",
+			"DisplayName": "Dungeon Type: Pendant (Green)",
+			"Image": "Images/Misc/DTPendantGreen.png"
+		},
+		{
+			"TypeName": "DTCrystal",
+			"DisplayName": "Dungeon Type: Crystal",
+			"Image": "Images/Misc/DTCrystal.png"
+		},
+		{
+			"TypeName": "DTCrystalRed",
+			"DisplayName": "Dungeon Type: Crystal (Red)",
+			"Image": "Images/Misc/DTCrystalRed.png"
+		}
+	]
+}
