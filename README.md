@@ -1,9 +1,5 @@
-# GeminiQvQ's LTTPMapTracker
-
-## Download
-
-[Latest](https://github.com/coystream/LTTPMapTracker/releases/download/1.20/LTTPMapTracker.zip)
+# GeminiQvQ's LTTPMapTracker (Edits by JaxxyIV)
 
 ## Description
 
-Added the little changes I made to the original project found here: https://github.com/GeminiQvQ/LTTPMapTracker
+Original Repository: https://github.com/GeminiQvQ/LTTPMapTracker
